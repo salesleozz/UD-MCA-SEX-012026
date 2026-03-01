@@ -7,3 +7,11 @@ Bairro: Vila Ré
 Se trabalha: Não trabalho
 Objetivo: Atuar como dev Beck - End
 ---
+Nome: Gustavo Modesto
+RA: 823144057
+Curso: Engenharia de Software
+Semestre: 7
+Bairro: Cidade Lider
+Se trabalha: Sim
+Objetivo: Atuar como analista de dados
+---
