@@ -7,3 +7,11 @@ Bairro: Vila Ré
 Se trabalha: Não trabalho
 Objetivo: Atuar como dev Beck - End
 ---
+Nome: Denner ferreira santos
+RA: 823127322
+Curso: Engenharia de Software
+Semestre: 7
+Bairro: Cidade tiradentes
+Se trabalha: Não trabalho
+Objetivo: Atuar com Engenharia de Software
+---
