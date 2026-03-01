@@ -1,0 +1,9 @@
+---
+Nome: Leonardo Sales
+RA: 82417341
+Curso: Engenharia de Software
+Semestre: 5
+Bairro: Vila Ré
+Se trabalha: Não trabalho
+Objetivo: Atuar como dev Beck - End
+---
