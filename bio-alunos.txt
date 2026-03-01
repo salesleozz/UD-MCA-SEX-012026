@@ -7,3 +7,13 @@ Bairro: Vila Ré
 Se trabalha: Não trabalho
 Objetivo: Atuar como dev Beck - End
 ---
+
+---
+Nome: Murilo Amorim Castro
+RA: 823135117
+Curso: Engenharia de Software
+Semestre: 7
+Bairro: Fundação
+Se trabalha: Sim (Engenheiro de dados)
+Objetivo: Crescer na área de engenharia de dados.
+---
