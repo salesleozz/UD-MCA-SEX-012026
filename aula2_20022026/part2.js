@@ -21,6 +21,31 @@ carro.estoque = 80;
 console.log("Estoque atualizado:", carro.estoque);
 
 // D
-for (let propriedade in carro) {
+for (let propriedade in carro) 
     console.log(propriedade + ":", carro[propriedade]);
+
+// Denner
+// ===============================
+
+let computador = {
+    nome: 'PC Gamer',
+    cor: 'Preto',
+    preco: 5500,
+    estoque: 20
+};
+
+// A
+console.log("Nome:", computador.nome);
+
+// B
+console.log("Preço:", computador['preco']);
+
+// C
+computador.estoque = 80;
+console.log("Estoque atualizado:", computador.estoque);
+
+// D
+for (let chave in computador) {
+    console.log(chave + ":", computador[chave]);
+
 }
