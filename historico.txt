@@ -1,0 +1,26 @@
+git log --oneline --graph --all
+*   45aab4e (HEAD -> main, origin/main, origin/HEAD) Merge remote-tracking branch 'origin/Murilo'
+|\
+| * bd0e7c6 (origin/Murilo) Adiciona bio do Murilo
+* |   8bee1b2 Merge remote-tracking branch 'origin/Gustavo'
+|\ \
+| * | 98ce119 (origin/Gustavo) adiciona a bio do gustavo
+| |/
+* |   ffbcb16 Resolve conflitos
+|\ \
+| * | 57fe4b9 (origin/Denner) adiciona bio do Denner
+| |/
+* / 6951b03 (origin/Lucas, Lucas) adiciona a bio do Lucas
+:
+*   45aab4e (HEAD -> main, origin/main, origin/HEAD) Merge remote-tracking branch 'origin/Murilo'
+|\
+| * bd0e7c6 (origin/Murilo) Adiciona bio do Murilo
+* |   8bee1b2 Merge remote-tracking branch 'origin/Gustavo'
+|\ \
+| * | 98ce119 (origin/Gustavo) adiciona a bio do gustavo
+| |/
+* |   ffbcb16 Resolve conflitos
+|\ \
+| * | 57fe4b9 (origin/Denner) adiciona bio do Denner
+| |/
+* / 6951b03 (origin/Lucas, Lucas) adiciona a bio do Lucas
