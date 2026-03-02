@@ -36,3 +36,14 @@ Se trabalha: Sim
 Objetivo: Atuar como analista de dados
 ---
 origin/Gustavo
+
+---
+Nome: Murilo Amorim Castro
+RA: 823135117
+Curso: Engenharia de Software
+Semestre: 7
+Bairro: Fundação
+Se trabalha: Sim (Engenheiro de dados)
+Objetivo: Crescer na área de engenharia de dados.
+---
+origin/Murilo
