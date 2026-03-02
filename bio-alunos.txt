@@ -7,7 +7,8 @@ Bairro: Vila Ré
 Se trabalha: Não trabalho
 Objetivo: Atuar como dev Beck - End
 ---
-<<<<<<< HEAD
+
+HEAD
 Nome: Lucas Antonio Gomes
 RA: 823126987
 Curso: Engenharia de Software
@@ -15,7 +16,7 @@ Semestre: 7
 Bairro: Parque Capuava
 Se trabalha: Sim
 Objetivo: Ter um cargo de gerencia na área de TI para potencializar outras pessoas.
-=======
+
 Nome: Denner ferreira santos
 RA: 823127322
 Curso: Engenharia de Software
@@ -24,4 +25,14 @@ Bairro: Cidade tiradentes
 Se trabalha: Não trabalho
 Objetivo: Atuar com Engenharia de Software
 ---
->>>>>>> origin/Denner
+origin/Denner
+
+Nome: Gustavo Modesto
+RA: 823144057
+Curso: Engenharia de Software
+Semestre: 7
+Bairro: Cidade Lider
+Se trabalha: Sim
+Objetivo: Atuar como analista de dados
+---
+origin/Gustavo
